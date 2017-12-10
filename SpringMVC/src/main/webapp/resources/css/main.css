@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+.formtable{
+	widht: 400px;
+	border: 1px  solid blue;
+	bargin: 50px;
+} 
+
+.error{
+	font-size:small;
+	color:red;
+	margein-left:10px;
+}
